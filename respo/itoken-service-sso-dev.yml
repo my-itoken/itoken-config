@@ -19,7 +19,7 @@ spring:
       # MySQL 8.x: com.mysql.cj.jdbc.Driver
       driver-class-name: com.mysql.jdbc.Driver
 mybatis:
-  type-aliases-package: com.bug.itoken.service.admin.domain
+  type-aliases-package: com.bug.itoken.common.domain
   mapper-locations: classpath:mapper/*.xml
 
 server:
