@@ -15,7 +15,7 @@ spring:
       content-type: text/html
 
 server:
-  port: 9201
+  port: 9202
 
 eureka:
   client:
